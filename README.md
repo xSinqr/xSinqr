@@ -1,4 +1,4 @@
-![MasterHead]([https://img.freepik.com/premium-vector/background-night-mountains-flat-cartoon-design-illustration-captures-quiet-magnificence_198565-8927.jpg](https://ibb.co/GJwcn8s))
+[![MasterHead](https://media.discordapp.net/attachments/1263591747070726316/1332042450881220750/banner.png?ex=6793d0b4&is=67927f34&hm=ee50ff0f48d1cf5c41107d34d2774b50e882565fb722297d060d8c01d5554087&=&format=webp&quality=lossless&width=1409&height=453)]
 <h1 align="center">Hello I'm xSinqr_</h1>
 <h3 align="center">15 year old java developer</h3>
 
